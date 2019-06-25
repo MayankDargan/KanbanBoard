@@ -1,0 +1,19 @@
+.task-status{
+    margin: 2%;
+}
+
+
+.heading{
+    text-align: left;
+    margin-left: 5%;
+}
+
+.members{
+    text-align: right;
+}
+
+.task-container{
+    width: 100%;
+    padding: 2%;
+    border: 1px solid #777;
+}
